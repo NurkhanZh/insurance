@@ -1,5 +1,5 @@
 from insurance.domains.policy.abstractions.adapters import QascoBackendAdapterABC
-from insurance.integrations.policy.qasco_backend import QascoBackendClient
+from insurance.integrations.policy.q_backend import QascoBackendClient
 
 
 class QascoBackendAdapter(QascoBackendAdapterABC):

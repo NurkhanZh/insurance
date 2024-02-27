@@ -3,7 +3,7 @@ import typing as t
 from httpx import AsyncClient
 from pydantic import BaseModel, ValidationError
 
-from insurance.integrations.policy.qasco_backend.exceptions import ClientResponseError
+from insurance.integrations.policy.q_backend.exceptions import ClientResponseError
 
 
 class UserInfoModel(BaseModel):
