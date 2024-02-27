@@ -1,1 +1,2 @@
-# insurance
+Это часть проекта который написан на Python с python-polylith
+Архитектура разработки на DDD 
